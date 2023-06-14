@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 70%;
+    background-color: azure;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    list-style: none;
+    margin-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    color: #dc143c;
+}
+
+.recipe-ul {
+    margin: 30px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.recipe-ol {
+    margin: 30px;
+    text-align: left;
+}
