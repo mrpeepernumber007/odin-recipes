@@ -18,15 +18,19 @@ html {
     background-color: azure;
     text-align: center;
     margin: 0 auto;
+    padding: 10px 0;
 }
 
 h1 {
     font-weight: 700;
+    text-align: center;
+    margin: 10px;
 }
 
 img {
     width: 500px;
     height: auto;
+    border-radius: 5%;
 }
 
 li {
@@ -65,4 +69,9 @@ a:hover {
 
 .recipe-ol li {
     list-style: circle;
+}
+
+.presentation-par {
+    margin-top: 10px;
+    font-size: 24px;
 }
